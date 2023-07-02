@@ -1,0 +1,2931 @@
+fileFormatVersion: 2
+guid: e3de83b82114f814a97a9b4c54ac584b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 799
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff084e9d823cce47a5f582565d7bc6f
+      internalID: -1024829053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 733
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdfcdcfc57072a4fa1fa26e5af78964
+      internalID: -83689326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 733
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188255fc435cc6418c7e3b2559a69be
+      internalID: -1372986739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 733
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1811875992a0f84a83ff32809050be8
+      internalID: 1772884344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 733
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd3e52b907c0a47aab229aa85907a3
+      internalID: 1848818480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 654
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be9894b2c2f209419cfb32d1d856828
+      internalID: 56296927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 654
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dd5e4890ff0b44fa62939994730ce1
+      internalID: 1158987529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 654
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba4a26c0b9e54443af611259843dd9e
+      internalID: -224829211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 655
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef37ac0eb33b0409431535292eb040
+      internalID: -1578741697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 653
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814e456309908a4495a3ed5a30506ad
+      internalID: 521408353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 653
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abdf0ebf58d8664698c9f58887e3ba0
+      internalID: -58838169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 653
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527a8b996e79c0141ab6448290fca5bf
+      internalID: 443323835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 653
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc728dbc6b2368a4687bd05c7ae9c56c
+      internalID: -380535328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 653
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088eed4ee80fa9446bed6504475ec6e0
+      internalID: 881853556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 560
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae23f6d0ec71244e970ba0163a4c057
+      internalID: 1972700115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 559
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3805d56267766704f9959a85a0b75f8e
+      internalID: -1228707824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 559
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532d75763dc38e42b6da4316815b02c
+      internalID: -1443812054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 560
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3962eb6c67d00de47a32fdd0b50198f5
+      internalID: -92380423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 561
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb14930f6dbb046a153acbbd035206
+      internalID: 800324629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 560
+        width: 55
+        height: 47
+      alignment: 9
+      pivot: {x: 0.3090909, y: 0.7659574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00309eee0574bef42949e06b099005f7
+      internalID: -1039173622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 560
+        width: 39
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cfc70f02968464e90e7684c14e3da4
+      internalID: -301386598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_21
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 560
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e149a569b70a1c3489e9699335eeba61
+      internalID: 200526110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 467
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5169cade257d468479d1bed4e63e3ad7
+      internalID: -1051649698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 467
+        width: 61
+        height: 64
+      alignment: 9
+      pivot: {x: 0.30194193, y: 0.56040096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf629f6affe24b478a94774bd0b7ca8
+      internalID: 1455900981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 467
+        width: 40
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44563103, y: 0.63806754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d6ee1ee9ea7314db150306f659f600
+      internalID: -1924907496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 467
+        width: 39
+        height: 55
+      alignment: 9
+      pivot: {x: 0.48760712, y: 0.649368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec6cb2d4a92c9d4693fdc3c0e9c7662
+      internalID: 1238141978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 467
+        width: 69
+        height: 62
+      alignment: 9
+      pivot: {x: 0.25486755, y: 0.5779429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d1778b61ccb54480bd6245d4be235
+      internalID: 2106487625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 467
+        width: 56
+        height: 75
+      alignment: 9
+      pivot: {x: 0.2583678, y: 0.47744384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825aa76cb36ec8e47b8a8632acbd774e
+      internalID: -1243480086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 374
+        width: 62
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6597404, y: 0.737278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b066eb05a395ec647adf5efb1cd03fbb
+      internalID: -1674523553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 374
+        width: 50
+        height: 55
+      alignment: 9
+      pivot: {x: 0.57046586, y: 0.64184904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc7ed863e0241b47a0bbfed43069cdf
+      internalID: 2045110884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 374
+        width: 38
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4536462, y: 0.59647727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63e6ed2cb6c86e41bd927752acde019
+      internalID: 967210911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 374
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.12700844, y: 0.5035474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb57bd4b8d75f46a861ebc26000cdd
+      internalID: 754332367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 374
+        width: 56
+        height: 75
+      alignment: 9
+      pivot: {x: 0.2528403, y: 0.47987306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91cb31cb7b6b1a4496d6b13f9076123
+      internalID: 1468172278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 281
+        width: 48
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8fd24f470aba419639c6cf6538026
+      internalID: 226011931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 281
+        width: 42
+        height: 80
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e37c8631834a943a8b2a11f24f8b33
+      internalID: -111031783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 281
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.375, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6563fbd58ab845a4cbfdf57167588428
+      internalID: 787733420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 282
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: 0.0952381, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ed448f5f015d84aa32ba13b41e427a
+      internalID: -2095034011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 282
+        width: 29
+        height: 71
+      alignment: 9
+      pivot: {x: 0.03448276, y: 0.49295774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8f47ac03262b438e581a1fee62d1d
+      internalID: -362940012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 282
+        width: 69
+        height: 72
+      alignment: 9
+      pivot: {x: 0.21739131, y: 0.4861111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c587d9c924694834ba7d7b202c431309
+      internalID: 1999689691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 280
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970beb41da47e10478dcab62e9599d25
+      internalID: -1975989955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 282
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8abd8d2350afeb44bc61058f3f718a1
+      internalID: -1460369785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 340
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f63cf9ed0782545b3cb838469f4a22
+      internalID: -2921646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_44
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 287
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e296880b30f4458a016f64ae3dab8
+      internalID: 1308601209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 285
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e79a1bf6312f340aaeae0b7ecc0237
+      internalID: 1528795757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 190
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b68a104d591f2841ac9d244d5ebd102
+      internalID: 548296853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 189
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c931e12be3fe459288318e4cef133
+      internalID: 1773712891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 190
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada32a729d02ac4b910368f05d74775
+      internalID: -2001329576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 190
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1124486bcf6ae4e80a283eb709f3c3
+      internalID: -1146241384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0779a614f20eae846b7ded959d9da082
+      internalID: -468768840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de27f712914f634a97fdb13b40bc0cc
+      internalID: -1529465838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 99
+        width: 58
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaffae1188100848936136ef954df1c
+      internalID: -585000951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 97
+        width: 77
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4935065, y: 1.5833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eca318064f8e74388548c7be6d9dda
+      internalID: -1540559210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 97
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562d1ffdfd2ba74ab353d5b6108fcad
+      internalID: 1327353516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 97
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb344c34042e70344896abaa26da5cb7
+      internalID: -1491215275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1e2a29bd4be9f4b869f83c9cc8cdcc
+      internalID: 743899021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_57
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508f78e3c00a40409f5d2fe01a1f739
+      internalID: 1581237483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4fbff45d46844ebd077f8c46ce7db
+      internalID: -465446118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_59
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8202c727192d46869df9d62b77bcb
+      internalID: -1184142988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ebd621a3e61c4783e573c5a0bc682
+      internalID: 1734939098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79009d00c298e049a17fc27e8cb1d04
+      internalID: 732976424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_62
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe8b6dddbbd87a46b6a5a6477fd1dd3
+      internalID: -1613157434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_63
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e29e0bcf917854eb5eb38b60b38ffb
+      internalID: -1400148096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_64
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522c08d7000aa6489c575fc7504b586
+      internalID: -569801511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6484bbfc72c3849873da22cd58fdfb
+      internalID: 1081603713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_66
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b918a2f6a4a314a8505207ab1382d9
+      internalID: 1806769516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_67
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab44f127acb8ac419ec3f09818b8787
+      internalID: 284618660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_68
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e229266893a04d82d7bba82ea5163
+      internalID: 1114295134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80fe7d94380a104c86f7df24e3ca53d
+      internalID: 1393457429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_70
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba65d14b8c204b4ea5169930b43b291
+      internalID: 848364481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_71
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 59
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1753c296f204664d87a0ed615891856
+      internalID: 471766472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_72
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20caa2576f081f84bb7c94407424b230
+      internalID: -333649060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_73
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 59
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f864b62483134c9728da193eabea0
+      internalID: -469438316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_74
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5ae6a3307dce44830cd0c3e45fb58
+      internalID: -2137508398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_75
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf58c4a195c82249ae89d60c5a82984
+      internalID: 1686178598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_76
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8084adeb759dd4c90c1869374e5265
+      internalID: -775370117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_77
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 59
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256082e668721044cabbf8b0f879890f
+      internalID: 1949537375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_78
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 49
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83bc73d4ef9d447a29fe521d521e98
+      internalID: 1547806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_79
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864d2c7946aa5c4e9f42168cf9e0342
+      internalID: 1311848673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_80
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e215d623f8ffb3b488f8a2dd2efd359a
+      internalID: -1562514485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_81
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d24cf0369ba9d429d6200d4c1dc491
+      internalID: 524880112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_82
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 49
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea3006d1e72b34a89dee8d1424c5bd
+      internalID: -303398194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_83
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 49
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066aa104039056f46acfcae174b55158
+      internalID: 1422313465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_84
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddaec6861fa025499fe1e397293448f
+      internalID: -650220874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_85
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f1b7075167c2b4e83f7e246e9b685e
+      internalID: 75168386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_86
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919c5f511232254ab8cbbbe00c0dbe3
+      internalID: 300771009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_87
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e685e77cce73746aa81efdd2729f25
+      internalID: -1033467608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_88
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a3073d0c2425a4fa798031c6408846
+      internalID: 2084443768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_89
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 49
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201fc9dc45938ea46b2c3ebf5d52190c
+      internalID: -955870315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_90
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d5d556f34353459c2f1e3486edb38
+      internalID: -1327029299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_91
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 49
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58a5d0ae5d02034e94b294bbbb8b91e
+      internalID: 1085235824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_92
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 39
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e69a8e342c02141948d67797c9cf14
+      internalID: -177720995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_93
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c279911d424641befe2be9f2872b7
+      internalID: 1087304339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7f982e65ca71148943326c0964f239
+      internalID: 770288525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4427975b7741c2a4ea730c014a77ca07
+      internalID: 1726595665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_96
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa918969279ad124189aa23f413bc0f6
+      internalID: 956650552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_97
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c793c7f814952e4789e332c3ee99ae3
+      internalID: -1019037720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_98
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5839ffa9725669a458b04aa7389e2854
+      internalID: 1703170988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_99
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3760eb7248b524c8ba2e21fbf65ed8
+      internalID: -95357291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_100
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ad8de82b672240a29d6ecbb15448d
+      internalID: -1200369967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_101
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 39
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff7e3d963c8094691098908e9cb1eb
+      internalID: -1427213932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_102
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd710ef58f6d54397d358ec6463272
+      internalID: -1731145096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_103
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1814421006cb848b8c48fcd20ee6c1
+      internalID: -274064824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_104
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 39
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94d9b59c091c3419d7b31ca8a32425
+      internalID: -245048997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_105
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8a2e27f74f4545b34896069fe75cc
+      internalID: 692574246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 30
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86484ea9a3d53a445b84e49e343d2e61
+      internalID: 561186736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_107
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6932c90cc0b97c646b698743b64c9fa8
+      internalID: 425550151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_108
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7a6fe24a3d2c44ae6f92285feeb25
+      internalID: -361141858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_109
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abce8408b9e41f40ae8980d7b5d5268
+      internalID: 246909509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_110
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea2caf7c9e10a41aec78e97ced3530
+      internalID: 782647160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_111
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 29
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2eac9866ff5d142a0a1b5ef2b1f0c7
+      internalID: -777349516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_112
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 29
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d935a318de56f45a05e6cdab3ec7e1
+      internalID: 1413153242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_113
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671929dd7a79e94b8f7c0595cb65523
+      internalID: 1242927492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_114
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787dbb9a086abc04f9844ee4bb979ed0
+      internalID: -137203525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_115
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 29
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d4ed1bc61f8cd449fd7fd98cba0e92
+      internalID: -957365035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_116
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dedc4289698d04db41d4536426e729
+      internalID: 754586981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_117
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f2d1e71a4a1764cbec516719d7198d
+      internalID: -1893541549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_118
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 29
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c26b7f53680146a9d498ee2ff585a
+      internalID: 1947171573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_119
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8497b0045b193419c52bad60b3f7c2
+      internalID: 236916560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_120
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7909c79d2e10743b139475a86f623b
+      internalID: 1416843734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_121
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 29
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382796847b1b995418449e3c9c7463fc
+      internalID: -1836316460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_122
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76fdf932019424a968beeef9ffc8fa
+      internalID: -146886220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_123
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a37957d3ef014b94e4d0b5249ed56
+      internalID: -1896803058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 19
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9821ad7b34f5be4cacd003772d27344
+      internalID: -1411254270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_125
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bbfd1d812c32d45be70901828ca0f5
+      internalID: -839307690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_126
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ea7751df80e24a8606d32bcc18c64
+      internalID: -1537340137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_127
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991ae3d54e3ce74bad3e80c615d0383
+      internalID: 4843367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Golden Axe - Ax Battler_128
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7216a681d914f548b29e49212c9dec5
+      internalID: -1517394825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fbc28277990d1f540bb4f95474cbf740
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Genesis 32X SCD - Golden Axe - Ax Battler_0: -1024829053
+      Genesis 32X SCD - Golden Axe - Ax Battler_1: -83689326
+      Genesis 32X SCD - Golden Axe - Ax Battler_10: -58838169
+      Genesis 32X SCD - Golden Axe - Ax Battler_100: -1200369967
+      Genesis 32X SCD - Golden Axe - Ax Battler_101: -1427213932
+      Genesis 32X SCD - Golden Axe - Ax Battler_102: -1731145096
+      Genesis 32X SCD - Golden Axe - Ax Battler_103: -274064824
+      Genesis 32X SCD - Golden Axe - Ax Battler_104: -245048997
+      Genesis 32X SCD - Golden Axe - Ax Battler_105: 692574246
+      Genesis 32X SCD - Golden Axe - Ax Battler_106: 561186736
+      Genesis 32X SCD - Golden Axe - Ax Battler_107: 425550151
+      Genesis 32X SCD - Golden Axe - Ax Battler_108: -361141858
+      Genesis 32X SCD - Golden Axe - Ax Battler_109: 246909509
+      Genesis 32X SCD - Golden Axe - Ax Battler_11: 443323835
+      Genesis 32X SCD - Golden Axe - Ax Battler_110: 782647160
+      Genesis 32X SCD - Golden Axe - Ax Battler_111: -777349516
+      Genesis 32X SCD - Golden Axe - Ax Battler_112: 1413153242
+      Genesis 32X SCD - Golden Axe - Ax Battler_113: 1242927492
+      Genesis 32X SCD - Golden Axe - Ax Battler_114: -137203525
+      Genesis 32X SCD - Golden Axe - Ax Battler_115: -957365035
+      Genesis 32X SCD - Golden Axe - Ax Battler_116: 754586981
+      Genesis 32X SCD - Golden Axe - Ax Battler_117: -1893541549
+      Genesis 32X SCD - Golden Axe - Ax Battler_118: 1947171573
+      Genesis 32X SCD - Golden Axe - Ax Battler_119: 236916560
+      Genesis 32X SCD - Golden Axe - Ax Battler_12: -380535328
+      Genesis 32X SCD - Golden Axe - Ax Battler_120: 1416843734
+      Genesis 32X SCD - Golden Axe - Ax Battler_121: -1836316460
+      Genesis 32X SCD - Golden Axe - Ax Battler_122: -146886220
+      Genesis 32X SCD - Golden Axe - Ax Battler_123: -1896803058
+      Genesis 32X SCD - Golden Axe - Ax Battler_124: -1411254270
+      Genesis 32X SCD - Golden Axe - Ax Battler_125: -839307690
+      Genesis 32X SCD - Golden Axe - Ax Battler_126: -1537340137
+      Genesis 32X SCD - Golden Axe - Ax Battler_127: 4843367
+      Genesis 32X SCD - Golden Axe - Ax Battler_128: -1517394825
+      Genesis 32X SCD - Golden Axe - Ax Battler_13: 881853556
+      Genesis 32X SCD - Golden Axe - Ax Battler_14: 1972700115
+      Genesis 32X SCD - Golden Axe - Ax Battler_15: -1228707824
+      Genesis 32X SCD - Golden Axe - Ax Battler_16: -1443812054
+      Genesis 32X SCD - Golden Axe - Ax Battler_17: -92380423
+      Genesis 32X SCD - Golden Axe - Ax Battler_18: 800324629
+      Genesis 32X SCD - Golden Axe - Ax Battler_19: -1039173622
+      Genesis 32X SCD - Golden Axe - Ax Battler_2: -1372986739
+      Genesis 32X SCD - Golden Axe - Ax Battler_20: -301386598
+      Genesis 32X SCD - Golden Axe - Ax Battler_21: 200526110
+      Genesis 32X SCD - Golden Axe - Ax Battler_22: -1051649698
+      Genesis 32X SCD - Golden Axe - Ax Battler_23: 1455900981
+      Genesis 32X SCD - Golden Axe - Ax Battler_24: -1924907496
+      Genesis 32X SCD - Golden Axe - Ax Battler_25: 1238141978
+      Genesis 32X SCD - Golden Axe - Ax Battler_26: 2106487625
+      Genesis 32X SCD - Golden Axe - Ax Battler_27: 647260742
+      Genesis 32X SCD - Golden Axe - Ax Battler_28: -1243480086
+      Genesis 32X SCD - Golden Axe - Ax Battler_29: -1674523553
+      Genesis 32X SCD - Golden Axe - Ax Battler_3: 1772884344
+      Genesis 32X SCD - Golden Axe - Ax Battler_30: 2045110884
+      Genesis 32X SCD - Golden Axe - Ax Battler_31: 967210911
+      Genesis 32X SCD - Golden Axe - Ax Battler_32: 754332367
+      Genesis 32X SCD - Golden Axe - Ax Battler_33: -1827217176
+      Genesis 32X SCD - Golden Axe - Ax Battler_34: 1468172278
+      Genesis 32X SCD - Golden Axe - Ax Battler_35: 226011931
+      Genesis 32X SCD - Golden Axe - Ax Battler_36: -111031783
+      Genesis 32X SCD - Golden Axe - Ax Battler_37: 787733420
+      Genesis 32X SCD - Golden Axe - Ax Battler_38: -2095034011
+      Genesis 32X SCD - Golden Axe - Ax Battler_39: -362940012
+      Genesis 32X SCD - Golden Axe - Ax Battler_4: 1848818480
+      Genesis 32X SCD - Golden Axe - Ax Battler_40: 1999689691
+      Genesis 32X SCD - Golden Axe - Ax Battler_41: -1975989955
+      Genesis 32X SCD - Golden Axe - Ax Battler_42: -1460369785
+      Genesis 32X SCD - Golden Axe - Ax Battler_43: -2921646
+      Genesis 32X SCD - Golden Axe - Ax Battler_44: 1308601209
+      Genesis 32X SCD - Golden Axe - Ax Battler_45: 1528795757
+      Genesis 32X SCD - Golden Axe - Ax Battler_46: 548296853
+      Genesis 32X SCD - Golden Axe - Ax Battler_47: 1773712891
+      Genesis 32X SCD - Golden Axe - Ax Battler_48: -2001329576
+      Genesis 32X SCD - Golden Axe - Ax Battler_49: -1146241384
+      Genesis 32X SCD - Golden Axe - Ax Battler_5: 56296927
+      Genesis 32X SCD - Golden Axe - Ax Battler_50: -468768840
+      Genesis 32X SCD - Golden Axe - Ax Battler_51: -1529465838
+      Genesis 32X SCD - Golden Axe - Ax Battler_52: -585000951
+      Genesis 32X SCD - Golden Axe - Ax Battler_53: -1540559210
+      Genesis 32X SCD - Golden Axe - Ax Battler_54: 1327353516
+      Genesis 32X SCD - Golden Axe - Ax Battler_55: -1491215275
+      Genesis 32X SCD - Golden Axe - Ax Battler_56: 743899021
+      Genesis 32X SCD - Golden Axe - Ax Battler_57: 1581237483
+      Genesis 32X SCD - Golden Axe - Ax Battler_58: -465446118
+      Genesis 32X SCD - Golden Axe - Ax Battler_59: -1184142988
+      Genesis 32X SCD - Golden Axe - Ax Battler_6: 1158987529
+      Genesis 32X SCD - Golden Axe - Ax Battler_60: 1734939098
+      Genesis 32X SCD - Golden Axe - Ax Battler_61: 732976424
+      Genesis 32X SCD - Golden Axe - Ax Battler_62: -1613157434
+      Genesis 32X SCD - Golden Axe - Ax Battler_63: -1400148096
+      Genesis 32X SCD - Golden Axe - Ax Battler_64: -569801511
+      Genesis 32X SCD - Golden Axe - Ax Battler_65: 1081603713
+      Genesis 32X SCD - Golden Axe - Ax Battler_66: 1806769516
+      Genesis 32X SCD - Golden Axe - Ax Battler_67: 284618660
+      Genesis 32X SCD - Golden Axe - Ax Battler_68: 1114295134
+      Genesis 32X SCD - Golden Axe - Ax Battler_69: 1393457429
+      Genesis 32X SCD - Golden Axe - Ax Battler_7: -224829211
+      Genesis 32X SCD - Golden Axe - Ax Battler_70: 848364481
+      Genesis 32X SCD - Golden Axe - Ax Battler_71: 471766472
+      Genesis 32X SCD - Golden Axe - Ax Battler_72: -333649060
+      Genesis 32X SCD - Golden Axe - Ax Battler_73: -469438316
+      Genesis 32X SCD - Golden Axe - Ax Battler_74: -2137508398
+      Genesis 32X SCD - Golden Axe - Ax Battler_75: 1686178598
+      Genesis 32X SCD - Golden Axe - Ax Battler_76: -775370117
+      Genesis 32X SCD - Golden Axe - Ax Battler_77: 1949537375
+      Genesis 32X SCD - Golden Axe - Ax Battler_78: 1547806
+      Genesis 32X SCD - Golden Axe - Ax Battler_79: 1311848673
+      Genesis 32X SCD - Golden Axe - Ax Battler_8: -1578741697
+      Genesis 32X SCD - Golden Axe - Ax Battler_80: -1562514485
+      Genesis 32X SCD - Golden Axe - Ax Battler_81: 524880112
+      Genesis 32X SCD - Golden Axe - Ax Battler_82: -303398194
+      Genesis 32X SCD - Golden Axe - Ax Battler_83: 1422313465
+      Genesis 32X SCD - Golden Axe - Ax Battler_84: -650220874
+      Genesis 32X SCD - Golden Axe - Ax Battler_85: 75168386
+      Genesis 32X SCD - Golden Axe - Ax Battler_86: 300771009
+      Genesis 32X SCD - Golden Axe - Ax Battler_87: -1033467608
+      Genesis 32X SCD - Golden Axe - Ax Battler_88: 2084443768
+      Genesis 32X SCD - Golden Axe - Ax Battler_89: -955870315
+      Genesis 32X SCD - Golden Axe - Ax Battler_9: 521408353
+      Genesis 32X SCD - Golden Axe - Ax Battler_90: -1327029299
+      Genesis 32X SCD - Golden Axe - Ax Battler_91: 1085235824
+      Genesis 32X SCD - Golden Axe - Ax Battler_92: -177720995
+      Genesis 32X SCD - Golden Axe - Ax Battler_93: 1087304339
+      Genesis 32X SCD - Golden Axe - Ax Battler_94: 770288525
+      Genesis 32X SCD - Golden Axe - Ax Battler_95: 1726595665
+      Genesis 32X SCD - Golden Axe - Ax Battler_96: 956650552
+      Genesis 32X SCD - Golden Axe - Ax Battler_97: -1019037720
+      Genesis 32X SCD - Golden Axe - Ax Battler_98: 1703170988
+      Genesis 32X SCD - Golden Axe - Ax Battler_99: -95357291
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
