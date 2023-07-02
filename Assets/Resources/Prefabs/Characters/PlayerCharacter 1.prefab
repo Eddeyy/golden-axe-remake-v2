@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 4254755440645307092}
   - component: {fileID: 5447847627182202886}
   - component: {fileID: 1942724033064066023}
+  - component: {fileID: 1886567119568129109}
   m_Layer: 0
   m_Name: PlayerCharacter 1
   m_TagString: Untagged
@@ -215,7 +216,6 @@ MonoBehaviour:
   collider: {fileID: 0}
   rb: {fileID: 0}
   speed: 5
-  doubleTapped: 0
 --- !u!114 &4254755440645307092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -250,6 +250,7 @@ MonoBehaviour:
   isWalking: 0
   isWalkingUp: 0
   isCharging: 0
+  chargeCooldown: 0
 --- !u!114 &1942724033064066023
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -262,6 +263,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd2f88046005c3a4e8fdc25d6f88ef96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &1886567119568129109
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200305008442779992}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cf9f6fabae0b66447b2b6c9f20d6f415, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2668238179340312937
 GameObject:
   m_ObjectHideFlags: 0

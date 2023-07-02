@@ -6,8 +6,11 @@ public class CharacterStateManager : MonoBehaviour
 {
     private CharacterMovement movement;
     private Rigidbody rb;
+    
+    private Animator animator;
         
     [SerializeField] public bool isJumping = false;
+    [SerializeField] public bool isFalling = false;
     [SerializeField] public bool isGrounded = false;
     [SerializeField] public bool isRunning = false;
     [SerializeField] public bool isWalking = false;
@@ -20,6 +23,7 @@ public class CharacterStateManager : MonoBehaviour
     void Awake()
     {
         movement = GetComponent<CharacterMovement>();
+        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
     }
 
@@ -32,6 +36,19 @@ public class CharacterStateManager : MonoBehaviour
         isRunning = IsRunning();
         isWalking = IsWalking();
         isWalkingUp = IsWalkingUp();
+        isFalling = IsFalling();
+
+        AssignAnimatorParams();
+    }
+
+    private void AssignAnimatorParams()
+    {
+        animator.SetBool("isWalking", isWalking);
+        animator.SetBool("isWalkingUp", isWalkingUp);
+        animator.SetBool("isRunning", isRunning);
+        animator.SetBool("isCharging", isCharging);
+        animator.SetBool("isJumping", isJumping);
+        animator.SetBool("isFalling", isFalling);
     }
 
     private bool IsWalking()
@@ -62,6 +79,11 @@ public class CharacterStateManager : MonoBehaviour
     public bool CanJump()
     {
         return !isJumping && isGrounded && !isCharging;
+    }
+
+    public bool IsFalling()
+    {
+        return rb.velocity.y < 0 && !isGrounded && !isCharging;
     }
 
     public bool CanRun()
