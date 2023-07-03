@@ -49,15 +49,13 @@ public class CharacterMovement : MonoBehaviour
 
     public void MoveCharacter(Vector3 moveDirection)
     {
-
-        FlipInMoveDirection(moveDirection);
-
         moveDirection *= (state.isRunning)? speed * 2f : speed;
-
 
         if(!state.CanMove())
             return;
        
+        FlipInMoveDirection(moveDirection);
+
         if(state.isJumping)
         {   
             moveDirection *= 0.005f;

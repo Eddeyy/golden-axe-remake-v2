@@ -6,8 +6,11 @@ public class CharacterStateManager : MonoBehaviour
 {
     private CharacterMovement movement;
     private Rigidbody rb;
+    
+    private Animator animator;
         
     [SerializeField] public bool isJumping = false;
+    [SerializeField] public bool isFalling = false;
     [SerializeField] public bool isGrounded = false;
     [SerializeField] public bool isRunning = false;
     [SerializeField] public bool isWalking = false;
@@ -16,10 +19,14 @@ public class CharacterStateManager : MonoBehaviour
 
 
     [SerializeField] public int chargeCooldown = 0;
+    [SerializeField] public int walkAnimCooldown = 0;
+    
+    [SerializeField] public bool isIdle = true;
 
     void Awake()
     {
         movement = GetComponent<CharacterMovement>();
+        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
     }
 
@@ -27,16 +34,52 @@ public class CharacterStateManager : MonoBehaviour
     {
         HandleCooldowns();
         HandleChargeAttack();
+        ManageWalkCooldown();
 
         isCharging = IsCharging();
         isRunning = IsRunning();
         isWalking = IsWalking();
         isWalkingUp = IsWalkingUp();
+        isFalling = IsFalling();
+        isIdle = IsIdle();
+
+        AssignAnimatorParams();
+    }
+
+    private void AssignAnimatorParams()
+    {
+        animator.SetBool("isWalking", isWalking);
+        animator.SetBool("isWalkingUp", isWalkingUp);
+        animator.SetBool("isRunning", isRunning);
+        animator.SetBool("isCharging", isCharging);
+        animator.SetBool("isJumping", isJumping);
+        animator.SetBool("isFalling", isFalling);
+        animator.SetInteger("walkAnimCooldown", walkAnimCooldown);
+    }
+
+    private void ManageWalkCooldown()
+    {
+        if(Mathf.Abs(rb.velocity.x) > 0.1f || Mathf.Abs(rb.velocity.z) > 0.1f)
+        {
+            animator.speed = 1f;
+            walkAnimCooldown = 40;
+            return;
+        }
+
+        if(walkAnimCooldown > 0)
+        {
+            animator.speed = 0f;
+            walkAnimCooldown--;
+        }
+        else
+        {
+            animator.speed = 1f;
+        }
     }
 
     private bool IsWalking()
     {
-        return rb && (rb.velocity.x != 0 || rb.velocity.z != 0) && !isJumping && !isRunning && !isCharging;
+        return rb && (rb.velocity.x != 0 || rb.velocity.z != 0) && !isJumping && !isRunning && !isCharging && isGrounded;
     }
 
     public bool IsWalkingUp()
@@ -46,7 +89,7 @@ public class CharacterStateManager : MonoBehaviour
 
     public bool IsRunning()
     {
-        return isRunning && !isCharging;
+        return isRunning;
     }
 
     public bool IsCharging()
@@ -62,6 +105,11 @@ public class CharacterStateManager : MonoBehaviour
     public bool CanJump()
     {
         return !isJumping && isGrounded && !isCharging;
+    }
+
+    public bool IsFalling()
+    {
+        return rb.velocity.y < 0 && !isGrounded && !isCharging;
     }
 
     public bool CanRun()
@@ -82,13 +130,17 @@ public class CharacterStateManager : MonoBehaviour
     public void PerformChargeAttack()
     {
         isGrounded = false;
-        isRunning = false;
         isCharging = true;
     }
 
     private void HandleCooldowns()
     {
-        if (chargeCooldown > 0)
+        if (chargeCooldown == 20 && !isCharging)
+        {
+            isRunning = false;
+        }
+
+        if (chargeCooldown > 0 && !isCharging)
         {
             chargeCooldown--;
         }
@@ -100,5 +152,10 @@ public class CharacterStateManager : MonoBehaviour
         {
             chargeCooldown = 20;
         }
+    }
+
+    private bool IsIdle()
+    {
+        return !isWalking && !isWalkingUp && !isCharging && !isRunning && !isJumping && !isFalling && isGrounded;
     }
 }

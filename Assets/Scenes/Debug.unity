@@ -639,6 +639,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerCharacter
       objectReference: {fileID: 0}
+    - target: {fileID: 1886567119568129109, guid: 500177a9f2118c94aa53e3203f4a3922, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: cf9f6fabae0b66447b2b6c9f20d6f415, type: 2}
     - target: {fileID: 5447847627182202886, guid: 500177a9f2118c94aa53e3203f4a3922, type: 3}
       propertyPath: chargeCooldown
       value: 0
